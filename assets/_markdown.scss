@@ -18,7 +18,7 @@ $block-border-radius: 0.15rem;
   b, optgroup, strong {
     font-weight: 700;
   }
-  
+
   a {
     text-decoration: none;
 
@@ -30,8 +30,8 @@ $block-border-radius: 0.15rem;
   code {
     font-family: 'Oxygen Mono', monospace;
 
-    padding: 0 $padding-4;
-    background: $gray-100;
+    // padding: 0 $padding-4;
+    // background: $gray-100;
     border-radius: $block-border-radius;
   }
 
@@ -55,7 +55,7 @@ $block-border-radius: 0.15rem;
   table {
     border-spacing: 0;
     border-collapse: collapse;
-  
+
     tr th, tr td {
       padding: $padding-8 $padding-16;
       line-height: 1;
